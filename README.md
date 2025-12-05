@@ -1,0 +1,2 @@
+Customer Churn is a rate at which customers stop doing business with an entity. It is one of the most important metrics for subscription businesses. Acquiring a new customer is often 5-25 times more expensive than retaining an existing one.
+In this project I developed a Machine Learning solution to predict customer attrition within Telecommunications firm. The goal was not only to predict who will leave but to understand why, providing the business with actionable insights to improve retention strategies.
